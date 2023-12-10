@@ -14,6 +14,7 @@ for uniqueValue in uniqueValues:
 
 #Ниже закомменчено удаление начального столбца, для удобной проверки
 #data.drop(['whoAmI'], axis = 1, inplace=True)
+
 print(data)
 
 
